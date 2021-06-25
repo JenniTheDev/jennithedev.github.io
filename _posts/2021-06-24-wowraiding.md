@@ -27,7 +27,7 @@ After a wipe (when we all die and the boss doesn't), generally the raid leader w
 - I learned determination
 When people would ask me how our raid got our boss kills, I always told them that it was because we didn't give up. I think I remember it taking somewhere around 86 different tries to kill the boss. That's 85 times of not doing it right in some way. Each time, we would assess our mistakes and try to do better. The same goes for Software Development. If it didn't do what I wanted the first time, I keep on assessing what the problem is and make changes to fix it. 
 <p align="center">
-<iframe width="500" height="208" src="https://www.youtube.com/embed/SMZ4Iq5O5EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMZ4Iq5O5EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 - I learned to celebrate my wins
