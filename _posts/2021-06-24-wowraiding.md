@@ -30,7 +30,7 @@ When people would ask me how our guild got our boss kills, I always told them th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMZ4Iq5O5EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Completing a difficult challenge with friends is satisfying. 
+- Completing a difficult challenge with friends is satisfying. 
 Finishing a project with a team feels as good as killing a raid boss does. Finishing [Microverse](https://jennithe.dev/portfolio/1-microverse/) and reaching the end of our semester progress on [Espere's Jounrey](https://jennithe.dev/portfolio/2-esperesjourney/) was a very proud moment. It made me as proud as when my guild killed a raid boss and we could brag to our friends that we finally did it. Being able to show off a completed project is even more rewarding.
 
 
