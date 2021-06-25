@@ -17,7 +17,7 @@ No one likes to be told they are doing something wrong. Me included. I would alw
 
 
 <p align="center">
-<img width="400" height="166.40" src="http://jennithe.dev/images/wowbadui.jpg" title="Like taking criticism over this disaster">
+<img width="400" height="166.40" src="http://jennithe.dev/images/wowbadui.jpg" title="Like taking criticism over this disaster"> <br> ###### What was I thinking? 
 </p>
 
 ### Own up to your mistakes. <br>
