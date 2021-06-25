@@ -1,6 +1,6 @@
 ---
 title: "JenPile"
-excerpt: "A basic compiler written in C#<br/><img src='https://media.giphy.com/media/niw2jD7iFDR8WAI8dB/giphy.gif'>"
+excerpt: "A basic compiler written in C#<br/><img src='https://media.giphy.com/media/JU4ItiN8q2KFE1XBvC/giphy.gif'>"
 collection: portfolio
 ---
 
