@@ -17,11 +17,15 @@ No one likes to be told they are doing something wrong. Me included. I would alw
 
 
 <p align="center">
-<img width="400" height="166.40" src="http://jennithe.dev/images/wowbadui.jpg" title="Like taking criticism over this disaster"> <br> ###### What was I thinking? 
+<img width="400" height="166.40" src="http://jennithe.dev/images/wowrankings.jpg" title="Asking others pays off"> <br> Asking others pays off. 
 </p>
 
 ### Own up to your mistakes. <br>
 After a wipe (when we all die and the boss doesn't), generally the raid leader will ask who messed up. Raid members will explain what they did wrong. It's really uncomfortable to admit to 25+ other people that you didn't push a button at the right time. But, the more you do it the less uncomfortable it gets. I've carried that over to all of my projects. If I made a mistake, it's easier to just go tell my team, fix it, and learn not to do it again. It happens to all of us.
+
+<p align="center">
+<img width="400" height="166.40" src="http://jennithe.dev/images/wowbadui.jpg" title="Like taking criticism over this disaster"> <br> What was I thinking? 
+</p>
 
 ### Determination makes the difference between being the one of the best or one of the rest. <br>
 When people would ask me how our guild got our boss kills, I always told them that it was because we didn't give up. I remember it taking somewhere around 86 different tries to kill a boss. That's 85 times of not doing it right in some way. Each time, we would assess our mistakes and try to do better. The same goes for Software Development. If it didn't do what I wanted the first time, I keep on assessing what the problem is and make changes to fix it.
