@@ -6,6 +6,8 @@ collection: portfolio
 
 JenPile is a basic compiler written in C#. It is made up of a lexer, parser and symbol table. 
 
+[Project Github](https://github.com/JenniTheDev/JenPile)
+
 ## Table Of Contents
 * [Introduction](#Introduction)
 * [Project Documentation](#documentation)

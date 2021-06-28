@@ -8,6 +8,8 @@ collection: portfolio
 Microverse is a mobile app with short microgames
 <br><br>
 
+[Project Github can be found here](https://github.com/JenniTheDev/Microverse)
+
 ## Table of Contents <br>
 
 * [Introduction](#Introduction)

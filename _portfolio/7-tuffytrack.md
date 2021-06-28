@@ -9,6 +9,7 @@ collection: portfolio
   
 TuffyTrack is a game where you try to collect financial aid while avoiding your professors. TuffyTrack was built using the GoDot Game Engine.
 
+[Github for the project](https://github.com/JenniTheDev/TuffyTrack)
 
 <br> <br>
 ## Table Of Contents  <br>

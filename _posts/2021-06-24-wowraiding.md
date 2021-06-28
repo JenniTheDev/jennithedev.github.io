@@ -1,5 +1,5 @@
 ---
-title: "How WoW Raiding Made Me a Better Dev"
+title: "How WoW Raiding Made Me A Better Dev"
 date: 2021-06-24
 permalink: /posts/2021/06/wowraiding/
 tags:
