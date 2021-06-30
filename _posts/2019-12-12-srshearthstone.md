@@ -6,10 +6,11 @@ tags:
   - papers
   - srs
   - planning
+  - technicalwriting
  
 ---
 
-In my Technical writing class, we got to pick any software we wanted to write a on. My first thought was to do one on one of my favorite games like World of Warcraft, but when I started to think about how you would explain the requirements for a MMORPG I realized I should pick something a little less ambitious. Just for time constraints. 
+In my technical writing class, we got to pick anything we wanted to write a Software Requirements Specification on. My first thought was to do one on one of my favorite games like World of Warcraft, but when I started to think about how you would explain the requirements for a MMORPG I realized I should pick something a little less ambitious. Just for time constraints. 
 
 So I picked [Hearthstone](https://jennithe.dev/files/Hearthstone_SRS.pdf). It's (somewhat) simple to learn, turn base card game. I've played a few times and have hosted a lot of Hearthside gatherings, so I am familiar with the way the game works. Next came hunting down the more technical details of how the game was made. I did this by doing a little bit of detective work with my best friend Google. 
 
