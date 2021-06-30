@@ -16,7 +16,7 @@ When I put the sound effect on both of my ground objects, they would play their 
 
 The more I thought about it, it seemed more logical that the player would be making a sound to show they were healed or damaged, not the trigger. For example, lava would make a lava sound, it wouldn’t be there silent until you stood in it. So, I moved the script that would play the sound effect to the player. 
 
-With the OnHealthChange event, I get the ChangeAmount of the HealthChange.The Player then listens for that change and then plays the correct sound. If the change is less than 0, it’s a damaging sound. If it’s above 0, it’s a healing sound.
+With the OnHealthChange event, I get the ChangeAmount of the HealthChange. The Player then listens for that change and then plays the correct sound. If the change is less than 0, it’s a damaging sound. If it’s above 0, it’s a healing sound.
 
 I went one step farther and made a list for each of the HealthChange sound effects so it can randomly pick a sound each time it’s used. I think this gives it some variety. 
 
