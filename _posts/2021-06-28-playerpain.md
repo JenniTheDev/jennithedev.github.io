@@ -10,7 +10,7 @@ tags:
   
 ---
 
-I wanted to play a sound effect when the player takes damage and when they are healed. I was originally going to put the sound effect script n the game object that was causing the health change, but I ran into a problem. 
+I wanted to play a sound effect when the player takes damage and when they are healed. I was originally going to put the sound effect script on the game object that was causing the health change, but I ran into a problem. 
 
 When I put the sound effect on both of my ground objects, they would play their sound at the same time when the trigger was entered. Using the Events and Delegates pattern (my favorite), I have an event OnHealthChange, that is raised whenever the Player’s health changes. Both ground objects are listening to this event. Every time the event is raised, they would play their sound effect. 
 
