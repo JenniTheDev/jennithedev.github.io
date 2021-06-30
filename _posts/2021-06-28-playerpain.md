@@ -1,7 +1,7 @@
 ---
 title: "Ouch, Ahhh, Ouch, Ahhh"
 date: 2021-06-28
-permalink: /posts/2021/06/wowraiding/
+permalink: /posts/2021/06/playerpain/
 tags:
   - gamedev
   - unity
