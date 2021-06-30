@@ -14,7 +14,7 @@ tags:
 
 For my technical writing class, we were given a randomly assigned group and an app, Pokerrr2 to write a software requirements specification on. This was a great reason to play a lot of poker with each other.
 
-[Read it here - Pokerrrr2 Software Requirements Specification](jennithe.dev/files/SRS_Pokerrrr_Final_Draft.pdf)
+[Read it here - Pokerrrr2 Software Requirements Specification](https://jennithe.dev/files/SRS_Pokerrrr_Final_Draft.pdf)
 
 I had never written a technical paper with a group before. Neither had my group members. We decided we would approach it like we would any coding project. I found a SRS template from the IEEE that we figured we could modify as we needed. Then we each researched and wrote the sections that we were most interested in. 
 
