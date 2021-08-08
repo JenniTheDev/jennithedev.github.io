@@ -39,7 +39,7 @@ I also renamed my event from PlayerDeath to Death, since I could check what game
 ```csharp
     public void CheckForDeath() {
         if (healthPoints <= 0) {
-            onPlayerDeath.Raise(new DeathData());
+            onDeath.Raise(new DeathData());
         } 
     }
 ```    
