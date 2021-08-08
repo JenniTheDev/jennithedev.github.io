@@ -12,7 +12,7 @@ tags:
 
 In my [Just For Funsies](https://github.com/JenniTheDev/JustForFunsies) project, I have the player healing and taking damage. So, logically the next thing to do is to kill them off. 
 
-I wanted to make a Player Death event, so when the player’s health is 0, the player dies and the game is over. I ran into a problem though. On my OnPlayerHealthChange event, I pass the struct HealthData, which includes the amount of healing or damage the player is taking. The way I have my events set up, it currently passes some data, but I wasn’t sure what data I wanted to pass, or if I wanted to pass any data at all. 
+I wanted to make a Player Death event, so when the player’s health is 0, the player dies and the game is over. I ran into a problem though. On my OnPlayerHealthChange event, I pass the struct HealthChangeData, which includes the amount of healing or damage the player is taking. The way I have my events set up, it currently passes some data, but I wasn’t sure what data I wanted to pass, or if I wanted to pass any data at all. 
 
 ```csharp
     public struct HealthChangeData {
