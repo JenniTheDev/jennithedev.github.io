@@ -18,7 +18,7 @@ I came to the part of the tutorial that covered Player Input. Since the video is
 
 In the video, Brackey gets the position of the mouse with a method OnMouseButtonDown, and then sets the RigidBody of the projectile bird to that position. I needed to figure out how to do this with the new InputSystem. I made my PlayerControls and gave it two actions- Drag for the mouse position, and Fire for the mouse button click. I then tried to use the Drag action to set the RigidBody to the mouse position. It didn’t work.
 
-[](http://jennithe.dev/images/ABCOne.JPG)
+![](http://jennithe.dev/images/ABCOne.JPG)
 
 I kept getting compiler errors for assigning the mouse position, and I’d fix that and get some other errors. I decided to step back and see if the mouse was being recognized at all by putting out Debug.Log for my mouse click. I got that part working by using the OnClick of the UI Input System that Unity makes for you. That wasn’t what I was going for, but it was something.
 
