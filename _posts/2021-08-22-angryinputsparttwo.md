@@ -18,12 +18,12 @@ I had the right idea with my Input Action Map. I set it up correctly with Drag�
 Then, I didn’t enable my controls or get any reference to them. I also didn’t use the performed event. Instead I was trying to use a method to read the mouse location or the button click, but I had nothing calling that method.    
 
 ```csharp
-    var input = new PlayerControls();
-            inputMovement = input.Player.Drag;
-            inputMovement.Enable();
+        var input = new PlayerControls();
+        inputMovement = input.Player.Drag;
+        inputMovement.Enable();
 
-            inputClick = input.Player.Fire;
-            inputClick.Enable();
+        inputClick = input.Player.Fire;
+        inputClick.Enable();
 ```
 
 At this point, everything should have been working. I had my script set up to Debug.Log the mouse coordinates every time the button was clicked. But mine still wasn’t. I asked a friend to take a look because I was sure at this point, I was pretty sure it was something small that I was just too frustrated to see. One screenshare and five minutes later, we solved the problem.
