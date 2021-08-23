@@ -15,7 +15,7 @@ I had the right idea with my Input Action Map. I set it up correctly with Drag�
 
 ![](http://jennithe.dev/images/ABCTwo.JPG)
 
-Then, I didn’t enable my controls or get any reference to them. I originally had this logic in my Ball script, but I didn't think the Ball should be handling the launch action, so I moved it to a Launcher script. I also didn’t use the performed event. Instead I was trying to use a method to read the mouse location or the button click, but I had nothing calling that method.    
+Then, I didn’t enable my controls or get any reference to them. I also didn’t use the performed event. Instead I was trying to use a method to read the mouse location or the button click, but I had nothing calling that method.    
 
 ```csharp
     var input = new PlayerControls();
