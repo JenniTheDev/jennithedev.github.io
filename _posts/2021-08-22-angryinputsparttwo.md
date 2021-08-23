@@ -1,5 +1,5 @@
 ---
-title: 'Angry Inputs Part Two'
+title: 'Angry Inputs...What I learned'
 date: 2021-08-22
 permalink: /posts/2021/08/angryinputsparttwo/
 tags:
