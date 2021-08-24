@@ -35,6 +35,6 @@ When people would ask me how our guild got our boss kills, I always told them th
 </p>
 
 ### Completing a difficult challenge with friends is satisfying. <br>
-Finishing a project with a team feels as good as killing a raid boss does. Finishing [Microverse](https://jennithe.dev/portfolio/1-microverse/) and reaching the end of our semester progress on [Espere's Jounrey](https://jennithe.dev/portfolio/2-esperesjourney/) was a very proud moment. It made me as proud as when my guild killed a raid boss and we could brag to our friends that we finally did it. Being able to show off a completed project is even more rewarding.
+Finishing a project with a team feels as good as killing a raid boss does. Finishing [Microverse](https://jennithe.dev/portfolio/1-microverse/) and reaching the end of our semester progress on [Espere's Journey](https://jennithe.dev/portfolio/2-esperesjourney/) was a very proud moment. It made me as proud as when my guild killed a raid boss and we could brag to our friends that we finally did it. Being able to show off a completed project is even more rewarding.
 
 Even though a lot of people will claim raiding in World of Warcraft is a waste of time, it was time well spent. The relationships I have made and the skills I have learned in game are just as useful in life. 
