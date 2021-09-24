@@ -106,7 +106,7 @@ redirect_from:
     - Maintained all legal documentation
 <br><br>
 
-# Service and leadership
+# Service and Leadership
 
 **Inland Empire Electric Auto Association**
   - _2020 - Present_
