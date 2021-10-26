@@ -19,6 +19,6 @@ Once upon a time, I was an apartment manager. Every time I got a new job I had t
 
 While getting my degree at California State University, Fullerton, I got to work with a lot of other students. During group projects, I found myself in a position of leadership every time, and discovered that I had a real aptitude for it. I also joined the Video Game Development Club and the Women in Computer Science and Engineering. Showcasing the game my team made, [Espere's Journey](https://jennithe.dev/portfolio/2-esperesjourney/), was one of the highlights of my time at CSUF. Outside of school, I work on my coding skills by collaborating with other developers to create projects and review our code. 
 
-I'd love to be a part of your team. [Contact me](mailto:jenni@jennithe.dev) so we can get things started. 
+I'm currently working as an Associate Software Engineer at Blizzard. I enjoy solving problems and making great experiences for people. As a 13+ year WoW player, it's been an amazing journey to get to work on one of my favorite games.   
 <br><br>
 
