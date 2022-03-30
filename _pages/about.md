@@ -10,7 +10,7 @@ redirect_from:
 - /about.html
 ---
 
-# TLDR: 
+# TLDR; 
 I'm a really great programmer and fun to work with. Take a look at [my projects](https://jennithe.dev/projects/), [my blog](https://jennithe.dev/blog/) and [my resume](https://jennithe.dev/resume/). 
 <br><br>
 
